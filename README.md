@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/oliveir4-vitor/vitor_oliveira/blob/output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/oliveir4-vitor/oliveir4-vitor/output/dist/snake.svg)
 
 ###
