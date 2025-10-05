@@ -39,7 +39,6 @@ jobs:
           github_user_name: oliveir4-vitor
 
           outputs: dist/snake.svg?palette=github-dark
-	  snake_color: 'blue'
 
 
       - name: push snake.svg to the output branch
