@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
   <span>&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscodium/vscodium-original.svg" height="50" alt="python logo" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mariadb/mariadb-original-wordmark.svg" height="50" alt="python logo" />
 </div>
 
 #
