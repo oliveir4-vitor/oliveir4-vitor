@@ -1,7 +1,9 @@
 
-<div align="center">
+<div align="left">
   
-  # Olá! Eu sou o Vitor  
+  # Bem vindos ao meu GitHub! 
+
+  Me chamo Vitor Oliveira e meu objetivo e conseguir minha primeira oportunidade como dev backend. Posto alguns dos meus projetos aqui.
 </div>
 
 <div align="left">
