@@ -2,7 +2,7 @@ name: Animação da Cobrinha
 
 on:
   schedule: # executa a cada 12 horas
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
