@@ -1,22 +1,22 @@
 
 <div align="left">
   
-  # Bem vindos ao meu GitHub! 
+  # ✨ Quem sou Eu? 
 
-  Me chamo Vitor e meu objetivo e conseguir minha primeira oportunidade como dev backend. Posto alguns dos meus projetos aqui.
+   Eu sou o Vitor, gosto muito de tecnolgia e aprender coisas nova me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como dev backend. Posto alguns dos meus projetos aqui.
 </div>
 
 <div align="left">
+
+  # 🚀 O que Eu faço? 
   
   - 📚 Estudando desenvolvimento WEB!
-  - ☕Java/Spring
+  - 🛠️ Sempre experimentando novas ferramentas e frameworks
 </div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveir4-vitor&show_icons=true&theme=radical" height="150" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveir4-vitor&theme=radical&layout=compact" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=oliveir4-vitor&hide_title=false&hide_rank=false&show_icons=true&skip-validation=push&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveir4-vitor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
@@ -34,6 +34,12 @@
 
 #
 
+💬 Bora nos conectar?
+
+* Telegram : <a href="https://t.me/vitor_4" target="_blank">Vitor A. de Oliveira</a>
+* Email : <a href="mailto:vitoraquino3@gmail.com?subject=Collaboration%20Request" target="_blank">Email</a>
+* GitHub : <a href="https://github.com/asmrprog-yt" target="_blank">Aqui!</a>
+
 <div align="center">
   <br clear="both">
   
@@ -41,3 +47,6 @@
 </div>
 
 ###
+
+
+
