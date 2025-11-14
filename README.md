@@ -3,7 +3,7 @@
   
   # ✨ Quem sou Eu? 
 
-   Eu sou o Vitor, gosto muito de tecnolgia e aprender coisas nova me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como dev backend. Posto alguns dos meus projetos aqui.
+   Eu sou o Vitor! Gosto muito de tecnolgia e aprender coisas novas me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como DEV backend. Posto alguns dos meus projetos aqui.
 </div>
 
 <div align="left">
