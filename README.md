@@ -3,7 +3,7 @@
   
   # ✨ Quem sou Eu? 
 
-   Eu sou o Vitor! Gosto muito de tecnolgia e aprender coisas novas me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como DEV backend. Posto alguns dos meus projetos aqui.
+   Eu sou o Vitor! Gosto muito de tecnolgia e aprender coisas novas me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como DEV backend. Posto alguns dos meus projetos aqui como este: [ChatIA](https://github.com/oliveir4-vitor/ChatIA)
 </div>
 
 <div align="left">
