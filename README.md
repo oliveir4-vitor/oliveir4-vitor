@@ -3,7 +3,7 @@
   
   # ✨ Quem sou Eu? 
 
-   Eu sou o Vitor! Gosto muito de tecnolgia e aprender coisas novas me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como DEV backend. Posto alguns dos meus projetos aqui como este: [ChatIA](https://github.com/oliveir4-vitor/ChatIA)
+   Eu sou o Vitor! Gosto muito de tecnolgia e aprender coisas novas me motiva muito. Meu objetivo e conseguir minha primeira oportunidade como DEV backend. Posto alguns dos meus projetos aqui como este: [Mural de vagas API](https://vagas.labs-code.com/swagger-ui/index.html#/)
 </div>
 
 <div align="left">
@@ -11,7 +11,7 @@
   # 🚀 O que Eu faço? 
   
   - 📚 Estudo desenvolvimento WEB!
-  - 🛠️ Java, Spring, RestAPI, MVC, Maven
+  - 🛠️ Java, Spring, RestAPI, MVC, Maven, JWT, Swagger
 </div>
 
 <div align="center">
