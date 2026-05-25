@@ -10,8 +10,8 @@
 
   # 🚀 O que Eu faço? 
   
-  - 📚 Estudando desenvolvimento WEB!
-  - 🛠️ Sempre experimentando novas ferramentas e frameworks
+  - 📚 Estudo desenvolvimento WEB!
+  - 🛠️ Java, Spring, RestAPI, MVC, Maven
 </div>
 
 <div align="center">
